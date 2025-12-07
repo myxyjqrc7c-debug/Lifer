@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </title>مجوهرات ليدر</title>
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to bottom, #fff, #f4f4f4);
+      font-family: 'Arial', sans-serif;
+      direction: rtl;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+      justify-content: start;
+      align-items: center;
+      text-align: center;
+    }
+
+    .content {
+      width: 100%;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .logo {
+      max-width: 200px;
+      margin-bottom: 20px;
+    }
+
+    .links a {
+      display: block;
+      margin: 10px 0;
+      font-size: 18px;
+      color: #006400;
+      text-decoration: none;
+    }
+
+    .links a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="content">
+    <img class="logo" src="logo.png" alt="شعار مجوهرات ليدر">
+    <h1>مجوهرات ليدر</h1>
+    <p>منذ 40 عامًا من التميز ✨</p>
+    <p>ذوقك يكتمل معنا 💎</p>
+
+    <div class="links">
+      <a href="https://www.snapchat.com/add/leader_goldenn?share_id=3BR8IPyuL3c&locale=ar-SA" target="_blank">📸 سناب شات</a>
+      <a href="https://https://www.tiktok.com/@leader6664?_r=1&_t=ZS-921mPhzshYj" target="_blank">🎵 تيك توك</a>
+      <a href="https://wa.me/qr/5AYZXSKFJPMYE1" target="_blank">💬 واتساب</a>
+      <a href="https://maps.app.goo.gl/vaXwav4C8cGJfgxz7?g_st=ipc" target="_blank">📍 موقعنا على الخريطة</a>
+    </div>
+  </div>
+</body>![07dc195d-1908-44fd-b669-613f6a69ce7d](https://github.com/user-attachments/assets/cea8f1cb-131e-4d27-a305-9002f97dd4d2)
+![85dffb0e-cb34-4e4b-8516-d659e2edb7c8](https://github.com/user-attachments/assets/753aa148-7869-4a34-b5fa-d881b717ade0)
